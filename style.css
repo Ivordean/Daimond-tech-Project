@@ -1,0 +1,31 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-color:ghostwhite;
+    color:black;
+}
+.container{
+    border-color: rgba(82, 60, 60, 0.926);
+    background-color: ghostwhite;
+
+}
+
+.contact-us{
+    color:black;
+  background-color: teal;
+  margin-top: 0%;
+  
+}
+.navbar-here{
+    background-color: aliceblue;
+}
+.Products{
+    background-color: teal;
+    text-size-adjust: 20 px;
+}
+.Footer{
+    background-color: darkgray;
+    border-color: darkgray;
+    justify-content: center;
+    position: absolute;
+    }
