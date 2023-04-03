@@ -1,53 +1,42 @@
-@media screen 
- and (min-width: 650px) and (max-width: 1440px) {
-    
-    body{
-
-    
+@media screen and (min-width: 650px) and (max-width: 1440px) {
+  body {
     background-repeat: no-repeat;
-    background-color:ghostwhite;
-    color:black;
-    Font-family:Roboto;
-    display:block;
-    min-width: 650px;
-    max-width: 1440px  
-}
-.container{
+    background-color: ghostwhite;
+    color: black;
+    font-family: Roboto;
+  }
+  .container {
     border-color: rgba(82, 60, 60, 0.926);
     background-color: ghostwhite;
-    Font-family:Roboto;
-}
-.header{
-     display:block;
-     }
-
-h1 {
+    font-family: Roboto;
+  }
+  h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: darkturquoise ;
-}
-
-.contact-us{
-  color:black;
-  background-color: teal;
-  margin-top: 0%;
-  Font-family:Roboto; 
-}
-.navbar-here{
-    background-color: aliceblue;
-    Color:black;
-    Margin:0%;
-    font-family:Roboto;   
-}
-.Products{
+    color: darkturquoise;
+  }
+  .contact-us {
+    color: black;
     background-color: teal;
-    text-size-adjust: 20 px;
-    Position:absolute;
-    Font-family:Arial;
-}
-.Footer{
+    margin-top: 0%;
+    font-family: Roboto;
+  }
+  .navbar-here {
+    background-color: aliceblue;
+    color: black;
+    margin: 0%;
+    font-family: Roboto;
+  }
+  .Products {
+    background-color: teal;
+    font-size: 20px;
+    position: absolute;
+    font-family: Arial;
+  }
+  .Footer {
     background-color: darkgray;
     border-color: darkgray;
     justify-content: center;
     position: absolute;
-    Font-family:Arial;
-    }
+    font-family: Arial;
+  }
+}
