@@ -1,4 +1,6 @@
-body{
+@media screen 
+ and (min-width: 650px) and (max-width: 1440px) {
+    body{
     
     background-repeat: no-repeat;
     background-color:ghostwhite;
@@ -29,3 +31,4 @@ body{
     justify-content: center;
     position: absolute;
     }
+}
