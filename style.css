@@ -40,3 +40,16 @@
     font-family: Arial;
   }
 }
+@keyframes hero {
+    25% {
+        box-shadow: 10px 0px 20px darkorange;
+    }
+    50% {
+        box-shadow: 10px 0px 20px blue;
+    }
+    75% {
+        box-shadow: 10px 0px 20px red;
+    }
+    100% {
+        box-shadow: 10px 0px 20px saddlebrown;
+    }
